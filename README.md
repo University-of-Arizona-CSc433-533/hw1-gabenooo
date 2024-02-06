@@ -1,4 +1,4 @@
-Author: {Gab Noriega} [{ggn@arizona.edu}]  
+Author: {Gabw Noriega} [{ggn@arizona.edu}]  
 Course: [433]  
 Date: Jan. [5], 2023
 
